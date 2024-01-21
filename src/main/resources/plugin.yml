@@ -1,0 +1,4 @@
+name: NoSinglePlayer
+version: '${project.version}'
+main: org.wade7.nosingleplayer.NoSinglePlayer
+api-version: '1.20'
